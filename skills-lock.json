@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "write-kaggle-benchmarks": {
+      "source": "Kaggle/kaggle-skills",
+      "sourceType": "github",
+      "skillPath": "write-kaggle-benchmarks/SKILL.md",
+      "computedHash": "b8f2b63ebd5bcb696e6637a51108ab5ad6fd121f33435b2e27144f195f2b0683"
+    }
+  }
+}
